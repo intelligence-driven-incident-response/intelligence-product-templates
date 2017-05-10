@@ -1,0 +1,5 @@
+- 1. Mission
+- 2. Adversary Situation
+- 3. Enemy Capabilities
+- 4. Analysis of Enemy Capabilities
+- 5. Conclusions
