@@ -1,11 +1,15 @@
 - __FROM:__ Intelligence Team
-- __TO:__ Requester
-- __TLP:__ red/yellow/green/white
+- __TO:__ Forensics Team
+- __TLP:__ yellow
 - __Response At:__ 2016-11-13
 
 ## Response:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?
+
+GLASS WIZARD (GL) uses a wide variety of malware based on target, including Hydraq, Poison Ivy, Derusbi, Fexel, and others. As a result WINNTI indicators provided may not be 100% comprehsensive. 
+
+Included are two attachments (gw_winnti_hashes.txt & gw_winnti_yara.txt).  
 
 ## Response References:
-- www.example.com/response_source_1
-- www.example.com/response_source_2
+- Axiom Report
+	- [Hashes](http://www.novetta.com/wp-content/uploads/2014/11/Hashes.txt)
+	- [Yara](http://www.novetta.com/wp-content/uploads/2015/04/nov_winnti_yara.txt)

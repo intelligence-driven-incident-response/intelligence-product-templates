@@ -1,10 +1,9 @@
-- __FROM:__ Requester
+- __FROM:__ Forensics Team 
 - __TO:__ Intelligence Team
-- __Response By:__ 2016-11-12
+- __Response By:__ ASAP
 
 ## Request:
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat?
+We're investigating multiple hard drives associated with GLASS WIZARD activity at the request of the SOC. We're requesting any file system indicators for the WINNTI malware. We intend to use these for system triage.
 
 ## Request References:
-- www.example.com/request_source_1
-- www.example.com/request_source_2
+- N/A
