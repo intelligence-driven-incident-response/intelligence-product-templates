@@ -35,5 +35,5 @@ _Notes:_
 ## References
 
 - https://home.mcafee.com/virusinfo/virusprofile.aspx?key=253416
-- https://www.symantec.com/connect/blogs/trojanhydraq-incident https://www.symantec.com/connect/blogs/trojanhydraq-incident 
+- https://www.symantec.com/connect/blogs/trojanhydraq-incident 
 
