@@ -30,25 +30,7 @@ _Notes:_
 
 ## Related TTPs
 
-Actions the Hydraq malware is capable of.
-
-- Escalate process priviledges.
-- Shutdown or reboot the system.
-- Read, write, execute, copy, change attributes of, and delete files.
-- Execute commands via cmd.exe.
-- Download additional components.
-- Modify the system registry.
-- List local resources (Drives, services etc.)
-- Modify the local filesystem.
-- Self update.
-- Adjust token privileges.
-- Check status, control, and end processes and services.
-- Create, modify, and delete registry entries.
-- Restart and shut down the computer.
-- Gather information about the victims machines.
-- Clear all system event logs.
-- Download a remote file, save it as %Temp%\mdm.exe, and then execute it.
-
+- Delivery is believed to be via spearphishing.
 
 ## References
 
