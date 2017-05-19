@@ -2,7 +2,7 @@
 
 ## Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla lorem tortor, vel scelerisque neque efficitur at. In accumsan nisl vitae tellus tincidunt, non porta ipsum aliquam. Praesent ut auctor metus. Morbi et elit tempor, aliquet ante quis, fermentum quam. Aenean consequat euismod arcu, id lobortis felis.
+Earlier today our organization was targeted by a spearphishing attack aimed at a variety of system administratiors and recruiters. This phishing email had the subject: 'IT Generalist Resume"
 
 ## Timeline
 
@@ -12,22 +12,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam fringilla lorem 
 
 ## Impact
 
-Aliquam ac est eget velit auctor rutrum id non arcu. Curabitur non mauris non odio tempus tristique id ut turpis.
+Based on initial triage the 
 
 ## Recommendations
 
-- Nunc eget sem dui.
-- Nulla facilisi.
-- Ut aliquam tellus id elit lobortis gravida.
+- Block attacker email (based on email addresses and attachment names) before delivery to users. 
 
 ## On-going Actions
 
-- In et libero at sem facilisis tempus quis et enim.
-- Maecenas aliquet vehicula tortor, nec rhoncus ligula hendrerit sit amet.
-- Mauris aliquet justo tellus, eget congue dolor aliquet a.
+- Malware analysis of the attached document and secondary malware.
 
 ## References
 
 - www.example.com/1
-- www.example.com/2
-- www.example.com/3
